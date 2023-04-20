@@ -4,10 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("results are ");
+        System.out.println("----------------------------");
+        System.out.println("----------------------------");
         System.out.println(hasSameLastDigit(41,22,70));
     }
 
     public static boolean hasSameLastDigit(int para1, int para2, int para3) {
+        System.out.println("----------------------------");
         System.out.println("----------------------------");
         System.out.println("----------------------------");
         System.out.println("----------------------------");
