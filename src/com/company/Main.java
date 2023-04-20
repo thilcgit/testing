@@ -14,6 +14,7 @@ public class Main {
         System.out.println("----------------------------");
         System.out.println("----------------------------");
         System.out.println("----------------------------");
+        System.out.println("hello");
         if (para1 < 10 || para1 > 1000 || para2 < 10 || para2 > 1000 || para3 < 10 || para3 > 1000) {
             return false;
         }
