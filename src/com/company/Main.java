@@ -9,6 +9,8 @@ public class Main {
 
     public static boolean hasSameLastDigit(int para1, int para2, int para3) {
         System.out.println("----------------------------");
+        System.out.println("----------------------------");
+        System.out.println("----------------------------");
         if (para1 < 10 || para1 > 1000 || para2 < 10 || para2 > 1000 || para3 < 10 || para3 > 1000) {
             return false;
         }
